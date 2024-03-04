@@ -1,0 +1,30 @@
+{
+  "name": "naveenkumarps-gm-assignment",
+  "version": "1.0.0",
+  "description": "Playwright assignment with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "chromiumtest": "npx playwright test --project=chromium"
+  },
+  "author": "Naveen Kumar",
+  "license": "ICS",
+  "dependencies": {
+    "@playwright/test": "^1.37.1",
+    "typescript": "^5.2.2",
+    "@types/adm-zip": "^0.5.0",
+    "@types/crypto-js": "^4.1.1",
+    "@typescript-eslint/eslint-plugin": "^5.61.0",
+    "@typescript-eslint/parser": "^5.61.0",
+    "adm-zip": "^0.5.10",
+    "allure-playwright": "^2.4.0",
+    "crypto-js": "^4.1.1",
+    "eslint": "^8.44.0",
+    "eslint-plugin-import": "^2.27.5",
+    "exceljs": "^4.3.0",
+    "lighthouse": "^9.6.8",
+    "npm": "^9.6.4",
+    "pdfjs-dist-es5": "^2.13.216",
+    "pg": "^8.11.1",
+    "winston": "^3.9.0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "Registartion": {
+        "firstname": "Alden",
+        "lastname": "Cantrell",
+        "age": 30,
+        "email": "test@test.com",
+        "salary": 12345,
+        "department": "QA"
+    },
+    "RegistartionEdit": {
+        "firstname": "Gerimedica",
+        "lastname": "BV"
+    },
+    "PracticeForm": {
+        "firstname": "Alden",
+        "lastname": "Cantrell",
+        "email": "test@test.com",
+        "gender": "Male",
+        "mobile": 1234567890,
+        "dob": "15 January,1990",
+        "subjects": "Physics",
+        "Hobbies": "Reading",
+        "Current Address": "Netherlands",
+        "State and City": "NCR Delhi"
+    }
+}
